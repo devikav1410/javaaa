@@ -21,3 +21,4 @@ for (int j = i + 1; j < array.length; j++) {
 scanner.close();
  }
 }
+
