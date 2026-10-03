@@ -16,9 +16,11 @@ Create a package named college containing a class Student with a method to displ
 8.	Sub-packages
 Create a package structure college.department. Define a class ITStudent inside the department sub-package with a method to display student information. Write another Java program to import and use this class. 
 9.	try-catch Exception Handling
-Write a Java program to accept two integers from the user and perform division. Use try-catch to handle the ArithmeticException that occurs when the denominator is zero. 
-10.	throw and throws
+Write a Java program to accept two integers from the user and perform division. Use try-catch to handle the ArithmeticException that occurs when the denominator is zero.
+<img width="663" height="103" alt="image" src="https://github.com/user-attachments/assets/5c573af6-9204-49a6-82ca-837be06c1be2" />
+
+11.	throw and throws
 Write a Java program to create a method checkAge(int age) that throws an exception using the throw keyword when the age is less than 18. Declare the exception using throws and handle it in the calling method. 
-11.	Multiple Exceptions and finally
+12.	Multiple Exceptions and finally
 Write a Java program that accepts an array index and performs an operation on an array. Use try-catch to handle ArrayIndexOutOfBoundsException and another appropriate exception. Use a finally block to display a message indicating that exception handling has been completed.
 
